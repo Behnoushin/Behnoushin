@@ -65,9 +65,10 @@ I am a passionate backend developer who transitioned into tech to follow my love
 
 <p align="center">
   <a href="https://github.com/Behnoushin/B-Cafe-digital-menu">
-    <img width='40%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Behnoushin&repo=B-Cafe-digital-menu&border_color=FFA500&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FFA500" />
+    <img width='40%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Behnoushin&repo=B-Cafe-digital-menu&border_color=FF5E00&bg_color=0D1117&title_color=FF6A00&text_color=FF884D&icon_color=FF6A00" />
   </a>
 </p>
+
 
 
 ---
