@@ -31,7 +31,7 @@ I’m eager to take on new challenges and keep growing every day by learning exc
 
 ## 🛠️ Skills & Tools
 
-- 💻 **Languages**: Python
+- 💻 **Languages**: Python, C#
 - 🧰 **Frameworks**: Django, FastAPI, Celery
 - 🔧 **Tools & DB**: Git, Docker, PostgreSQL, Redis
 
@@ -42,7 +42,6 @@ I’m eager to take on new challenges and keep growing every day by learning exc
 
 
 ---
-
 
 ## 🚀 Projects
 
@@ -73,6 +72,12 @@ I’m eager to take on new challenges and keep growing every day by learning exc
   <span>&nbsp;</span>
   <a href="https://github.com/Behnoushin/API-Blog">
     <img width='38%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Behnoushin&repo=API-Blog&border_color=9400D3&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=9400D3" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Behnoushin/PhoneBook-CSharp">
+    <img width='38%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Behnoushin&repo=PhoneBook-CSharp&border_color=00CED1&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00CED1" />
   </a>
 </p>
 
