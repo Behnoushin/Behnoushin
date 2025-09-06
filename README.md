@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  Passionate Backend Developer 👩🏻‍💻 | Django Enthusiast 🚀 | Python Lover 🐍
+  Passionate Backend Developer 👩🏻‍💻 | Django Enthusiast 🚀 | Python Lover 🐍 | C# Enthusiast & .NET Explorer ✨
 </p>
 
 
@@ -19,11 +19,14 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate **Backend Developer** who made the exciting leap into tech to chase my love for **problem-solving** and crafting smart, digital solutions.🎒
+I'm a passionate **Backend Developer** who made the exciting leap into tech to chase my love for **problem-solving** and crafting smart, digital solutions. 🎒
 
-After diving deep into **Python** and **Django**, I have worked on several projects from scratch all the way to deployment — proving that I can turn ideas into real, working projects! 🚀
+After diving deep into **Python** and **Django**, I have learned **C#** and developed a strong interest in the **.NET ecosystem**, building projects and exploring its capabilities. 🚀
+
+I have worked on several projects from scratch all the way to deployment — proving that I can turn ideas into real, working projects! 💻
 
 I’m eager to take on new challenges and keep growing every day by learning exciting new things, passionately advancing in this amazing career journey. 💫✨
+
 
 
 ---
@@ -76,10 +79,11 @@ I’m eager to take on new challenges and keep growing every day by learning exc
 </p>
 
 <p align="center">
-  <a href="https://github.com/Behnoushin/PhoneBook-CSharp">
-    <img width='38%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Behnoushin&repo=PhoneBook-CSharp&border_color=00CED1&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00CED1" />
+  <a href="https://github.com/Behnoushin/CSharp-Collection">
+    <img width='38%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Behnoushin&repo=CSharp-Collection&border_color=00CED1&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00CED1" />
   </a>
 </p>
+
 
 ---
 
