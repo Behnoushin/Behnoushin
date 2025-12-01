@@ -41,12 +41,12 @@ I’m eager to take on new challenges and keep growing every day by learning exc
 
 ### 🟢 Django(DRF) Projects
 <p align="center">
-  <a href="https://github.com/Behnoushin/online_shop">
-    <img width='38%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Behnoushin&repo=online_shop&border_color=FFD700&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FFD700" />
+  <a href="https://github.com/Behnoushin/B-Cafe-digital-menu">
+    <img width='38%' align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Behnoushin&repo=B-Cafe-digital-menu&border_color=FFD700&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FFD700" />
   </a>
   <span>&nbsp;</span>
-  <a href="https://github.com/Behnoushin/B-Cafe-digital-menu">
-    <img width='38%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Behnoushin&repo=B-Cafe-digital-menu&border_color=FF69B4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF69B4" />
+  <a href="https://github.com/Behnoushin/Online_shop">
+    <img width='38%' align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Behnoushin&repo=online_shop&border_color=FF69B4&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF69B4" />
   </a>
 </p>
 
