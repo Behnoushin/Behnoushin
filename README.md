@@ -39,7 +39,7 @@ I’m eager to take on new challenges and keep growing every day by learning exc
 ## 🚀 Projects
 
 
-### 🟢 Django(DEF) Projects
+### 🟢 Django(DRF) Projects
 <p align="center">
   <a href="https://github.com/Behnoushin/online_shop">
     <img width='38%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Behnoushin&repo=online_shop&border_color=FFD700&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FFD700" />
@@ -83,6 +83,10 @@ I’m eager to take on new challenges and keep growing every day by learning exc
 
 ### 🟣 C#(.Net) Projects
 <p align="center">
+  <a href="https://github.com/Behnoushin/WeatherAPI">
+    <img width='38%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Behnoushin&repo=WeatherAPI&border_color=FF1493&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF1493" />
+  </a>
+  <span>&nbsp;</span>
   <a href="https://github.com/Behnoushin/CSharp-Collection">
     <img width='38%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Behnoushin&repo=CSharp-Collection&border_color=00CED1&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00CED1" />
   </a>
