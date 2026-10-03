@@ -12,13 +12,13 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate **Backend Developer** who made the exciting leap into tech to chase my love for **problem-solving** and crafting smart, digital solutions. 🎒
+I'm a passionate **Backend Developer** who made the exciting leap into tech to pursue my love for **problem-solving** and building smart digital solutions. 🎒
 
-After diving deep into **Python** and **Django**, I have learned **C#** and developed a strong interest in the **.NET ecosystem**, building projects and exploring its capabilities. 🚀
+I started my journey with **Python, Django, and Django REST Framework**, and have also learned **C#** and developed a strong interest in the **.NET ecosystem**, building projects and exploring its capabilities. 🚀
 
-I have worked on several projects from scratch all the way to deployment — proving that I can turn ideas into real, working projects! 💻
+I enjoy working on projects from **scratch to deployment**, turning ideas into real, working solutions. 💻
 
-I’m eager to take on new challenges and keep growing every day by learning exciting new things, passionately advancing in this amazing career journey. 💫✨
+I'm always eager to learn, take on new challenges, and keep growing as a Backend Developer. 💫✨
 
 ---
 
@@ -93,6 +93,14 @@ I’m eager to take on new challenges and keep growing every day by learning exc
   </a>
 </p>
 
+
+### 🟠 Algorithms(python & C#)
+
+<p align="center">
+  <a href="https://github.com/Behnoushin/Algorithm">
+    <img width='38%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Behnoushin&repo=Algorithm&border_color=F4A261&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=F4A261" />
+  </a>
+</p>
 
 ---
 
